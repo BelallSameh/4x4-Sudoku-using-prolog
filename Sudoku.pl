@@ -1,3 +1,4 @@
+%Belal Mohamed Sameh
 first_empty([0|_],0) :- !.
 first_empty([_|T],C) :- 
                         first_empty(T,C1),
@@ -124,4 +125,3 @@ goal_bfs(Board,Solved) :-
                          goal_bfs(Moves4,Solved))).
 
 %[_,_,1,_,3,_,_,2,_,_,2,4,2,4,_,_]
-%IN211 – Sudoku - 211000411 - Belal Sameh
