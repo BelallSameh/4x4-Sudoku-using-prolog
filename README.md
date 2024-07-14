@@ -18,7 +18,7 @@ The **4x4-Sudoku-using-prolog** project is a 4x4 Sudoku solver built using Prolo
     ```
 
 2. **Run the Prolog Program**:
-    - Load the Prolog file (`sudoku_solver.pl`) in your Prolog interpreter.
+    - Load the Prolog file (`sudoku.pl`) in your Prolog interpreter.
     - Use the implemented predicates to solve or verify 4x4 Sudoku puzzles.
 
 ## Features
