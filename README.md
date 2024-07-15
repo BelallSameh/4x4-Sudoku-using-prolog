@@ -1,15 +1,15 @@
 # 4x4-Sudoku-using-prolog 🧩
 
-## Project Overview
+## 📚 Project Overview
 
 The **4x4-Sudoku-using-prolog** project is a 4x4 Sudoku solver built using Prolog. It utilizes various functions to verify and solve Sudoku puzzles. The project involves artificial intelligence (AI) and implements three different searching algorithms to solve a 4x4 Sudoku puzzle.
 
-## Repository Contents
+## 📂 Repository Contents
 
 - **Prolog Code**: Implementation of Sudoku solving algorithms in Prolog.
 - **Documentation**: Detailed explanation of the solving algorithms and their implementations.
 
-## Getting Started
+## 🚀 Getting Started
 
 1. **Clone the Repository**:
     ```bash
@@ -21,21 +21,20 @@ The **4x4-Sudoku-using-prolog** project is a 4x4 Sudoku solver built using Prolo
     - Load the Prolog file (`Sudoku.pl`) in your Prolog interpreter.
     - Use the implemented predicates to solve or verify 4x4 Sudoku puzzles.
 
-## Features
+## 🌟 Features
 
 - **Sudoku Solver**: Solves 4x4 Sudoku puzzles using Prolog.
 - **Verification Functions**: Verify the correctness of Sudoku solutions.
 - **AI Algorithms**: Implements three different searching algorithms for solving Sudoku puzzles.
 
-## Contributing
+## 🤝 Contributing
 
-Contributions are welcome! To contribute:
-1. Fork the repository.
-2. Create a new branch (`feature-branch`).
-3. Make your changes and commit them (`git commit -m 'Add new feature'`).
-4. Push to the branch (`git push origin feature-branch`).
-5. Open a pull request.
+Contributions are welcome! Please:
+1. Fork the repo
+2. Create a new branch (`feature-branch`)
+3. Commit your changes (`'Add new feature'`)
+4. Push and open a pull request
 
-## Contact
+## 📬 Contact
 
-For any inquiries or issues, please contact belalsameh188@gmail.com open an issue in the repository.
+For any questions or issues, please contact belalsameh188@gmail.com or open an issue in the repository.
